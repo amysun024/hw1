@@ -37,6 +37,4 @@
 
 ### 测试步骤
 
-运行 测试.py 文件中的主函数，结果如下所示
-
-<img src="/Users/amysun/Library/Application Support/typora-user-images/image-20220410163415924.png" alt="image-20220410163415924" style="zoom:50%;" />
+运行 测试.py 文件中的主函数
